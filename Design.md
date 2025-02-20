@@ -2,7 +2,7 @@
 
 ---
 
-Since your **Next.js project has grown large**, your** suggestion was a "Page → Screen → Container → Item"** structure, but this felt **more aligned with React Native** rather than a web-based project.
+Since your **Next.js project has grown large**, your **suggestion was a "Page → Screen → Container → Item"** structure, but this felt **more aligned with React Native** rather than a web-based project.
 
 After discussing different approaches, we considered:
 
